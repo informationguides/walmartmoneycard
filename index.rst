@@ -7,7 +7,7 @@ Struggling to Activate Your Walmart MoneyCard? Here’s the Complete Login & Act
 
 .. image:: get.jpg
    :alt: iforgot.apple.com
-   :target: https://fm.ci?aHR0cHM6Ly9wYWRkeXBvd2VyLXN1cHBvcnQucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://fm.ci?aHR0cHM6Ly93YWxtYXJ0bW9uZXljYXJkLWhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
 If you’ve just received your Walmart MoneyCard and are ready to start using it, the first step is to activate it. The most secure and official way to activate your card is by visiting `WalmartMoneyCard.com/activate <https://www.walmartmoneycard.com/activate>`_. But before you can activate the card, you must log in to your account.
 
